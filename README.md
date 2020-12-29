@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on serverless-related projects
 - 🤔 I’m looking for help with [serverless-appsync-plugin](https://github.com/sid88in/serverless-appsync-plugin)
 - 💬 Ask me about Serverless, AppSync
-- 📫 How to reach me: Twitter @Benoit_Boure, or email (see profile on the left)
+- 📫 How to reach me: Twitter [@Benoit_Boure](https://twitter.com/Benoit_Boure), or email (see profile on the left)
 
