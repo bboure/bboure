@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on @tamaringoapp and several open source projects, like [serverless-appsync-plugin](https://github.com/sid88in/serverless-appsync-plugin) and [serverless-appsync-simulator](https://github.com/bboure/serverless-appsync-simulator)
+- 🔭 I’m currently working several open source projects, like [serverless-appsync-plugin](https://github.com/sid88in/serverless-appsync-plugin), [serverless-appsync-simulator](https://github.com/bboure/serverless-appsync-simulator) and [vscode-appsync-utils](https://github.com/bboure/vscode-appsync-utils)
 - 👯 I’m looking to collaborate on serverless related projects
 - 🤔 I’m looking for help with [serverless-appsync-plugin](https://github.com/sid88in/serverless-appsync-plugin)
 - 💬 Ask me about Serverless or AppSync!
