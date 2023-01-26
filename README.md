@@ -8,7 +8,7 @@
 
 Contact me/Follow me 👇
 <p align="center">
-  <a href="https://twitter.com/Benoit_Boure" target="_blank"><img src="https://img.shields.io/twitter/follow/Benoit_Boure?label=Twitter&logo=twitter&style=for-the-badge" /></a>&nbsp;
+  <a href="https://twitter.com/Benoit_Boure" target="_blank"><img src=https://img.shields.io/badge/follow-%40Benoit_Boure-1DA1F2?logo=twitter&style=for-the-badge" /></a>&nbsp;
   <a href="https://benoitboure.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-blue?logo=Hashnode&style=for-the-badge" /></a>&nbsp;
   <a href="https://linkedin.com/in/bboure" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-grey?logo=LinkedIn&style=for-the-badge" /></a>
 </p>
