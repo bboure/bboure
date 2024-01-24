@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working several open source projects, like [serverless-appsync-plugin](https://github.com/sid88in/serverless-appsync-plugin), [serverless-appsync-simulator](https://github.com/bboure/serverless-appsync-simulator) and [vscode-appsync-utils](https://github.com/bboure/vscode-appsync-utils)
+- 🔭 I’m currently working several open source projects, like [serverless-appsync-plugin](https://github.com/sid88in/serverless-appsync-plugin), [serverless-appsync-simulator](https://github.com/bboure/serverless-appsync-simulator),  [vscode-appsync-utils](https://github.com/bboure/vscode-appsync-utils) and [sls-jest](https://www.npmjs.com/package/sls-jest)
 - 🔧 I'm building [GraphBolt](http://graphbolt.dev/), a desktop client to manage, build, test and debug AWS AppSync APIs.
 - 👯 I’m looking to collaborate on serverless related projects
 - 🤔 I’m looking for help with [serverless-appsync-plugin](https://github.com/sid88in/serverless-appsync-plugin)
